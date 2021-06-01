@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Damiano Restaurant Ratings</string>
+    <string name="UsernameLabel">Username</string>
+    <string name="PasswordLabel">Password</string>
+    <string name="LoginLabel">Login</string>
+    <string name="RestaurantListLabel">Restaurants</string>
+    <string name="Version">Version 1.0</string>
+    <string name="Author">Written by Damiano DiCocco</string>
+    <string name="minimumlabel">Choose Minimum Rating Filter</string>
+    <string name="FilterButtonLabel">Set Filter</string>
+    <string name="AddButtonLabel">Add Restaurant</string>
+    <string name="NameField">Name</string>
+    <string name="LocationField">Location</string>
+    <string name="RatingField">Rating</string>
+    <string name="addRestaurantActivityTitle">Add A Restaurant Rating</string>
+    <string name="menuitemAppInfo">App Info</string>
+    <string name="menuitemAdd">Add Restaurant</string>
+    <string name="menuitemclear">Clear Filter</string>
+    <string name="menuitemFilterRating">Filter By Rating</string>
+
+</resources>
